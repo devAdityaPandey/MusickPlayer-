@@ -20,7 +20,7 @@ This is a simple web-based music player application built using HTML, CSS, and J
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/music-player.git
+    git clone https://github.com/devAdityaPandey/MusickPlayer-.git
     ```
 2. Navigate to the project directory:
     ```bash
